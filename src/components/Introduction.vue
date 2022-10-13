@@ -15,12 +15,6 @@
   </main>
 </template>
 
-<script>
-export default {
-  name: "Introduction",
-};
-</script>
-
 <style>
 .intro-section {
   display: flex;
@@ -36,11 +30,13 @@ export default {
   text-align: center;
   color: white;
 }
+
 .intro-image {
-  display: flex;
+  /* display: flex;
   position: absolute;
   bottom: 0px;
-  right: 0px;
+  right: 0px; */
+  /* float: bottom; */
 }
 img {
   height: 600px;
