@@ -13,7 +13,7 @@
 <style scoped>
 section {
   padding: 10rem;
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
 }
 
