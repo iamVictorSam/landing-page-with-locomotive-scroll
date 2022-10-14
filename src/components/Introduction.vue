@@ -1,45 +1,43 @@
 <template>
   <main>
-    <section class="intro-section">
+    <section>
       <div class="intro-title">
         <h1 data-scroll data-scroll-speed="9">
-          Isaac Junior
-          <br />A Frontend Engineer and Technical writer with a deep focus on
-          creating pixel-perfect designs.
+          Welcome to Jexxi Code
+          <br />
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum
+          tenetur magnam natus repellat quod dolorem culpa excepturi doloremque,
+          autem.
         </h1>
       </div>
-      <div class="intro-image">
-        <img src="../assets/man-thinking.png" alt="profile" />
+
+      <div>
+        <img src="../assets/man-thinking.png" />
       </div>
     </section>
   </main>
 </template>
 
-<style>
-.intro-section {
+<style scoped>
+section {
   display: flex;
-  align-items: center;
+  align-items: end;
   justify-content: center;
   background-image: url("../assets/background.png");
   height: 100vh;
 }
 
-.intro-title {
+h1 {
   display: flex;
-  font-size: 1rem;
+  font-size: 3rem;
   text-align: center;
-  color: white;
+  color: black;
+  padding-left: 3rem;
+  margin-bottom: 15rem;
 }
 
-.intro-image {
-  /* display: flex;
-  position: absolute;
-  bottom: 0px;
-  right: 0px; */
-  /* float: bottom; */
-}
 img {
-  height: 600px;
+  height: 650px;
   /* width: 700; */
 }
 </style>

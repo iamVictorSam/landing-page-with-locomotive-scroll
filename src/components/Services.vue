@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h1>Services We Offer</h1>
+    <h1>Services we Offer</h1>
 
     <div>
       <ServiceText />
@@ -13,12 +13,14 @@
 <style scoped>
 section {
   padding: 10rem;
-  /* height: 100vh; */
   display: flex;
+  background-color: #f4fdff;
 }
 
 h1 {
   padding-right: 10rem;
+  font-size: 3rem;
+  color: blue;
 }
 </style>
 
