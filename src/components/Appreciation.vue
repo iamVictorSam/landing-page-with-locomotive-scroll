@@ -20,4 +20,8 @@ h1 {
   font-size: 2.5rem;
   padding-bottom: 3rem;
 }
+
+h2 {
+  color: darkgrey;
+}
 </style>
