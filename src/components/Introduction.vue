@@ -1,15 +1,13 @@
 <template>
   <main>
     <section>
-      <div class="intro-title">
-        <h1 data-scroll data-scroll-speed="9">
-          Welcome to Jexxi Code
-          <br />
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum
-          tenetur magnam natus repellat quod dolorem culpa excepturi doloremque,
-          autem.
-        </h1>
-      </div>
+      <h1>
+        Welcome to Jexxi Code
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum
+        tenetur magnam natus repellat quod dolorem culpa excepturi doloremque,
+        autem.
+      </h1>
 
       <div>
         <img src="../assets/man-thinking.png" />
@@ -38,6 +36,5 @@ h1 {
 
 img {
   height: 650px;
-  /* width: 700; */
 }
 </style>
