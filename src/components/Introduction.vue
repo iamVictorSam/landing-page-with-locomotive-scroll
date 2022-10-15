@@ -1,7 +1,7 @@
 <template>
   <main>
-    <section>
-      <h1>
+    <section data-scroll data-scroll-speed="2" data-scroll-section>
+      <h1 data-scroll-speed="2" data-scroll>
         Welcome to Jexxi Code
         <br />
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum
