@@ -1,5 +1,5 @@
 <template>
-  <main ref="container">
+  <main ref="container" data-scroll-container>
     <Introduction />
     <Services />
     <Appreciation />

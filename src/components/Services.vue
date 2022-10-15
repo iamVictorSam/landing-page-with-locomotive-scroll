@@ -1,8 +1,15 @@
 <template>
   <section id="sticky" data-scroll-section>
-    <h1 data-scroll data-scroll-sticky data-scroll-target="#sticky">
-      Services we Offer
-    </h1>
+    <div class="service-text">
+      <h1
+        data-scroll
+        data-scroll-sticky
+        data-scroll-target="#sticky"
+        data-scroll-speed="9"
+      >
+        Services we Offer
+      </h1>
+    </div>
 
     <div>
       <ServiceText />
@@ -16,6 +23,7 @@
 section {
   padding: 10rem;
   display: flex;
+
   background-color: #f4fdff;
 }
 
@@ -25,7 +33,8 @@ h1 {
   color: blue;
 }
 
-#sticky {
+.service-text {
+  height: 20px;
 }
 </style>
 
