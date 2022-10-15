@@ -7,7 +7,7 @@
       sequi, explicabo molestias maxime. Incidunt at dolorem modi rem a error.
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum,
       corporis dolor voluptatibus praesentium, inventore quo nisi earum eos esse
-      sequi, explicabo molestias maxime. Incidunt at dolorem modi rem a error.
+      sequi, explicabo molestias maxime. Incidunt at dolorem modi rem.
     </p>
   </div>
 </template>
