@@ -1,6 +1,12 @@
 <template>
   <section data-scroll-section>
-    <h1 data-scroll data-scroll-direction="vertical" data-scroll-speed="9">
+    <h1
+      className="appreciation-text"
+      data-scroll
+      data-scroll-repeat="true"
+      data-scroll-class="animate"
+      data-scroll-speed="5"
+    >
       Thank You For Using The Locomotive Scroll Library
     </h1>
     <br />
@@ -27,5 +33,14 @@ h1 {
 
 h2 {
   color: darkgrey;
+}
+
+.appreciation-text {
+  opacity: 0;
+}
+
+.animate {
+  opacity: 1;
+  transition: opacity 4s;
 }
 </style>
