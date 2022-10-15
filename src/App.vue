@@ -1,7 +1,9 @@
 <template>
-  <Introduction />
-  <Services />
-  <Appreciation />
+  <main ref="container">
+    <Introduction />
+    <Services />
+    <Appreciation />
+  </main>
 </template>
 
 <script>
