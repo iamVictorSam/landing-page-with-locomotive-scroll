@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "locomotive-scroll": "^4.1.4",
     "vue": "^3.2.37"
   },
   "devDependencies": {
