@@ -24,7 +24,7 @@ section {
   padding: 10rem;
   display: flex;
 
-  background-color: #f4fdff;
+  background-color: #f4fdffc2;
 }
 
 h1 {
