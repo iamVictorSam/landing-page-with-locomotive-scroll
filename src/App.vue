@@ -23,7 +23,7 @@ export default {
       new LocomotiveScroll({
         el: this.$refs.container,
         smooth: true,
-        multiplier: 2,
+        multiplier: 3,
       });
     },
   },
