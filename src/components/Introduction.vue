@@ -1,19 +1,16 @@
 <template>
-  <main>
-    <section data-scroll data-scroll-speed="2" data-scroll-section>
-      <h1 data-scroll-speed="2" data-scroll>
-        Welcome to Jexxi Code
-        <br />
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum
-        tenetur magnam natus repellat quod dolorem culpa excepturi doloremque,
-        autem.
-      </h1>
+  <section data-scroll data-scroll-speed="2" data-scroll-section>
+    <h1 data-scroll-speed="2" data-scroll>
+      Welcome to Jexxi Code
+      <br />
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum tenetur
+      magnam natus repellat quod dolorem culpa excepturi doloremque, autem.
+    </h1>
 
-      <div>
-        <img src="../assets/man-thinking.png" />
-      </div>
-    </section>
-  </main>
+    <div>
+      <img src="../assets/man-thinking.png" />
+    </div>
+  </section>
 </template>
 
 <style scoped>
