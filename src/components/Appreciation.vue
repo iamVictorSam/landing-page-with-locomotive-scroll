@@ -10,7 +10,7 @@
       Thank You For Using The Locomotive Scroll Library
     </h1>
     <br />
-    <h2 data-scroll data-scroll-direction="vertical" data-scroll-speed="9">
+    <h2 data-scroll data-scroll-direction="horizontal" data-scroll-speed="9">
       - Sam Victor
     </h2>
   </section>
